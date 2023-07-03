@@ -1,12 +1,19 @@
 ---
 title: "krptk blog: Projects and Thoughts"
 listing:
-  contents: posts
-  sort: "date desc"
-  type: default
-  categories: true
-  sort-ui: false
-  filter-ui: false
+    - id: projects
+      contents: projects
+      sort: false
+      type: grid
+      filter-ui: true
+      categories: true
+    - id: blog-posts
+      contents: posts
+      sort: "date desc"
+      type: default
+      categories: true
+      sort-ui: false
+      filter-ui: false
 page-layout: full
 title-block-banner: true
 ---

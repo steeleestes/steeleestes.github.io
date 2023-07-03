@@ -2,6 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/projects/pokedex/index.html",
       "/posts/welcome/index.html"
     ]
   }

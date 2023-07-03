@@ -4,28 +4,28 @@
     "href": "index.html",
     "title": "krptk blog: Projects and Thoughts",
     "section": "",
-    "text": "Hello World!\n\n\n\n\n\n\n\ndiscussion\n\n\n\n\n\n\n\n\n\n\n\nJul 1, 2023\n\n\nSteele Estes\n\n\n\n\n\n\nNo matching items"
+    "text": "PokeDex: Categorization App\n\n\n\ncode\n\n\nproject\n\n\n\n\n\n\n\nSteele Estes\n\n\nJun 25, 2023\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\n\n  \n\n\n\n\nHello World!\n\n\n\n\n\n\n\ndiscussion\n\n\n\n\n\n\n\n\n\n\n\nJul 1, 2023\n\n\nSteele Estes\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/welcome/index.html",
     "href": "posts/welcome/index.html",
     "title": "Hello World!",
     "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\nI appreciate you taking the time to click and read. I have plans to use this platform as a place to help anyone out there that, like myself, has not had the best experience with formal education but has a thirst and a passion for learning. I intend to cover my own projects, the successes and the pitfalls, but also community resources, focusing on free and open source, as well as troubleshooting and technical learining I have done in building my own system at home for training models and building apps.\nGood luck to everyone else out there on this journey, I hope to meet or work with many of you some day. I am truly excited to be able to live in a time when the development of something as powerful and interesting as AI is current and so as-of-yet undiscovered, it really feels like this is just the begining for this technology and I cannot wait to see where it goes."
+    "text": "This is the first post in a Quarto blog. Welcome!\nI appreciate you taking the time to click and read. I have plans to use this platform as a place to help anyone out there that, like myself, has not had the best experience with formal education but has a thirst and a passion for learning. I intend to cover my own projects, the successes and the pitfalls, but also community resources, focusing on free and open source, as well as troubleshooting and technical learning I have done in building my own system at home for training models and building apps.\nGood luck to everyone else out there on this journey, I hope to meet or work with many of you some day. I am truly excited to be able to live in a time when the development of something as powerful and interesting as AI is current and so as-of-yet undiscovered, it really feels like this is just the beginning for this technology and I cannot wait to see where it goes."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "Who am I?",
     "section": "",
-    "text": "I started my career while a student of Mathematics in University. I left school early to work in politics as an analyst when I realized no one in the area I lived was doing anything with even the most basic of data. During this time I ended up building a very simple neural network in Excel to apply to a relatively complex model I devised. Since I was just working on intuition at the time and, frankly, didn’t know what a neural network really was, there was no learner and I was tuning the weights and biases by hand. Clumsiness aside it worked and I was able to predict exact (within 1% of final in multiple different races) election results a little more than a month in advance. When Covid happened I decided it was time to take a step back and formalize my knowledge."
+    "text": "I started my career while a student of Mathematics in University. I left school early to work in politics as an analyst when I realized no one in the area I lived was doing anything with even the most basic of data. During this time I ended up building a very simple neural network in Excel to apply to a relatively complex model I devised. Since I was just working on intuition at the time and, frankly, didn’t know what a neural network really was, there was no learner and I was tuning the weights and biases by hand. Clumsiness aside it worked and I was able to beat traditional state-of-the-art techniques and predict exact (within 1% of final in multiple different races) election results a little more than a month in advance. When Covid happened I decided it was time to take a step back and formalize my knowledge."
   },
   {
     "objectID": "about.html#history",
     "href": "about.html#history",
     "title": "Who am I?",
     "section": "",
-    "text": "I started my career while a student of Mathematics in University. I left school early to work in politics as an analyst when I realized no one in the area I lived was doing anything with even the most basic of data. During this time I ended up building a very simple neural network in Excel to apply to a relatively complex model I devised. Since I was just working on intuition at the time and, frankly, didn’t know what a neural network really was, there was no learner and I was tuning the weights and biases by hand. Clumsiness aside it worked and I was able to predict exact (within 1% of final in multiple different races) election results a little more than a month in advance. When Covid happened I decided it was time to take a step back and formalize my knowledge."
+    "text": "I started my career while a student of Mathematics in University. I left school early to work in politics as an analyst when I realized no one in the area I lived was doing anything with even the most basic of data. During this time I ended up building a very simple neural network in Excel to apply to a relatively complex model I devised. Since I was just working on intuition at the time and, frankly, didn’t know what a neural network really was, there was no learner and I was tuning the weights and biases by hand. Clumsiness aside it worked and I was able to beat traditional state-of-the-art techniques and predict exact (within 1% of final in multiple different races) election results a little more than a month in advance. When Covid happened I decided it was time to take a step back and formalize my knowledge."
   },
   {
     "objectID": "about.html#now",
@@ -33,5 +33,12 @@
     "title": "Who am I?",
     "section": "Now",
     "text": "Now\nI started by learning front end dev. This always felt more like a means to an end rather than a place to stop itself so I jumped back into data. I picked up Pandas and SQL and started doing simple data analytics and visualization. A few example Kaggle notebooks later and it just wasn’t what I wanted. Thats when I really fell into the rabbit hole. I found Andrej Karpathy on YouTube when looking for a more technical and modern approach to large data. I had seen the top solutions almost always using some kind of ML model and knew that was the direction I would have to go. Having a background in math I was hoping for a more in depth explanation and I still haven’t really found a single person that done an all-around better job at really teaching the ideas behind ML than Andrej. Watching his videos and doing more research led me to the CS231n Stanford videos and then to the last pieces of the puzzle I needed to really start building things for myself, Jeremy Howard, fast.ai, and Hugging Face. What you see here is a result of the learning resources that those sources provided me. This is an amazing community and I hope to be able to contribute back to it myself some day. Links for everything below and a huge thank you to those who have made the decision to make this knowledge freely available to those who would seek it.\n\nReferences and Links\n\nhf\nfast.ai\nkaggle\nandrej youtube\nquarto\njupyter lab"
+  },
+  {
+    "objectID": "projects/pokedex/index.html",
+    "href": "projects/pokedex/index.html",
+    "title": "PokeDex: Categorization App",
+    "section": "",
+    "text": "print(\"placeholder\")\n\nplaceholder"
   }
 ]
