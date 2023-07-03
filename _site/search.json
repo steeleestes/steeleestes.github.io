@@ -7,13 +7,6 @@
     "text": "Hello World!\n\n\n\n\n\n\n\ndiscussion\n\n\n\n\n\n\n\n\n\n\n\nJul 1, 2023\n\n\nSteele Estes\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "First Steps, The Setup",
-    "section": "",
-    "text": "This is a post with executable code."
-  },
-  {
     "objectID": "posts/welcome/index.html",
     "href": "posts/welcome/index.html",
     "title": "Hello World!",
@@ -28,20 +21,6 @@
     "text": "I started my career while a student of Mathematics in University. I left school early to work in politics as an analyst when I realized no one in the area I lived was doing anything with even the most basic of data. During this time I ended up building a very simple neural network in Excel to apply to a relatively complex model I devised. Since I was just working on intuition at the time and, frankly, didn’t know what a neural network really was, there was no learner and I was tuning the weights and biases by hand. Clumsiness aside it worked and I was able to predict exact (within 1% of final in multiple different races) election results a little more than a month in advance. When Covid happened I decided it was time to take a step back and formalize my knowledge."
   },
   {
-    "objectID": "posts/welcome/Untitled.html",
-    "href": "posts/welcome/Untitled.html",
-    "title": "Human learning Machine Learning",
-    "section": "",
-    "text": "as"
-  },
-  {
-    "objectID": "posts/welcome/index.html#heading-2",
-    "href": "posts/welcome/index.html#heading-2",
-    "title": "Hello World!",
-    "section": "Heading 2",
-    "text": "Heading 2\nWut"
-  },
-  {
     "objectID": "about.html#history",
     "href": "about.html#history",
     "title": "Who am I?",
@@ -53,6 +32,6 @@
     "href": "about.html#now",
     "title": "Who am I?",
     "section": "Now",
-    "text": "Now\nI started by learing front end dev. This always felt more like a means to an end rather than a place to stop itself so I jumped back into data. I picked up Pandas and SQL and started doing simple data analytics and visualization. A few example Kaggle notebooks later and it just wasn’t what I wanted. Thats when I really fell into the rabbit hole. I found Andrej Karpathy on YouTube when looking for a more technical and modern approach to large data. I had seen the top solutions almost always using some kind of ML model and knew that was the direction I would have to go. Having a background in math I was hoping for a more in depth explanation and I still haven’t really found a single person that doen an all-around better job at really teaching the ideas behind ML than Andrej. Watching his videos and doing more research led me to the CS231n Stanford videos and then to the last pieces of the puzzle I needed to really start building things for myself, Jeremy Howard, fast.ai, and Hugging Face. What you see here is a result of the learning resources that those sources provided me. This is an amazing community and I hope to be able to contribute back to it myself some day. Links for everything below and a huge thank you to those who have made the decision to make this knowledge freely available to those who would seek it.\n\nReferences and Links\n\nhf\nfast.ai\nkaggle\nandrej youtube\nquarto\njupyter lab"
+    "text": "Now\nI started by learning front end dev. This always felt more like a means to an end rather than a place to stop itself so I jumped back into data. I picked up Pandas and SQL and started doing simple data analytics and visualization. A few example Kaggle notebooks later and it just wasn’t what I wanted. Thats when I really fell into the rabbit hole. I found Andrej Karpathy on YouTube when looking for a more technical and modern approach to large data. I had seen the top solutions almost always using some kind of ML model and knew that was the direction I would have to go. Having a background in math I was hoping for a more in depth explanation and I still haven’t really found a single person that done an all-around better job at really teaching the ideas behind ML than Andrej. Watching his videos and doing more research led me to the CS231n Stanford videos and then to the last pieces of the puzzle I needed to really start building things for myself, Jeremy Howard, fast.ai, and Hugging Face. What you see here is a result of the learning resources that those sources provided me. This is an amazing community and I hope to be able to contribute back to it myself some day. Links for everything below and a huge thank you to those who have made the decision to make this knowledge freely available to those who would seek it.\n\nReferences and Links\n\nhf\nfast.ai\nkaggle\nandrej youtube\nquarto\njupyter lab"
   }
 ]
